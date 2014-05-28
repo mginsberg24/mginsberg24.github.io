@@ -1,0 +1,180 @@
+
+body{
+	margin:0;
+}
+.navigation {
+
+background: url('images/glasses.jpg') no-repeat;
+height: 600px;
+width: 100%;
+background-size: 100% 100%;
+margin: 0;
+padding: none;
+background-position: center center;
+}
+
+.intro {
+	font-style: bold;
+	font-size: 50px;
+	text-align: center;	
+	border:none;
+	margin: none;
+}
+
+h1{ 
+	text-align: center;
+	color: black;
+	font-size: 50px;
+	font-style: bold;
+}
+.love {
+	background: url('images/love_bkgrnd.jpg') no-repeat;
+	padding-bottom: 0px;
+	padding-top: 20px;
+	background-size: 100% 100%;
+	height: 600px;
+	width: 100%; 
+}
+
+.travel {
+	text-align:right;
+	font-variant: small-caps;
+	font-weight: 900;
+	font-size: 50px;
+	color: #6495ED;
+	position: relative;
+	top: 100px;
+	right: 100px;
+
+}
+
+.food {
+	text-align: left;
+	font-variant: small-caps;
+	font-weight: bold;
+	font-size: 60px;
+	color:#20B2AA;
+	position: relative;
+	top: -220px;
+	right: -40px;
+}
+
+.dog {
+
+	text-align: left;
+	font-variant: small-caps;
+	font-weight: 500;
+	font-size: 50px;
+	color:#6133A5;
+	position: relative;
+	top: -200px;
+	right: -200px;
+}
+
+.adventure {
+	font-variant: small-caps;
+	font-weight: bolder;
+	font-size: 50px;
+	color:#000080;
+	position: relative;
+	top: -100px;
+	right: 0px;
+
+}
+
+.family {
+	font-variant: small-caps;
+	font-weight: bolder;
+	font-size: 50px;
+	color:#4E5F2B;
+	position: relative;
+	top: -30px;
+	right: -150px;
+}
+
+.michigan {
+font-variant: small-caps;
+	font-weight: 500;
+	font-size: 50px;
+	color:#0000FF;
+	position: relative;
+	top: -500px;
+	right: -800px;
+
+}
+
+.friends {
+
+	font-variant: small-caps;
+	font-weight: 500;
+	font-size: 50px;
+	color:#9370DB;
+	position: relative;
+	top: -350px;
+	right: -900px;
+}
+
+.books	{
+	font-variant: small-caps;
+	font-weight: 900;
+	font-size: 50px;
+	color: #CC0000;
+	position: relative;
+	top: -300px;
+	right: -750px;
+}
+
+.passion{
+
+background: url(images/smile.jpg) no-repeat;
+height: 500px;
+width: 100%;
+padding-top: 20px; 
+background-size: 100% 100%;
+}
+.pintrest{
+	color: 	#99E6FF;
+
+	}
+.foods{
+	color: white;
+	position: relative;
+	top:-670px;
+	right: -575px;
+	font-size: 35px;
+}
+
+.foody {
+	position: relative;
+	top:-450px;
+	right: -430px;
+
+}
+.traveled {
+
+	color: white;
+	position: relative;
+	top:-371px;
+	right: -50px;
+	font-size: 35px;
+}
+.travels {
+	position: relative;
+	top: -500px;
+	right: 570px;
+}
+
+.quotes {
+color: white;
+	position: relative;
+	top:-670px;
+	right: -10px;
+	font-size: 35px;
+}
+
+.quoted {
+	position:relative;
+	top: -375px;
+	right: 120px;
+
+}
