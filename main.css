@@ -126,7 +126,7 @@ font-variant: small-caps;
 
 .passion{
 
-background: url(images/smile.jpg) no-repeat;
+background: url('images/smile.jpg') no-repeat;
 height: 500px;
 width: 100%;
 padding-top: 20px; 
